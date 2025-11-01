@@ -54,7 +54,7 @@ do
         echo "${filePath} | ${fileHash}" >> "${saveLocation}"
 
         # prints confirmation that the file was hashed successfully
-        echo "[OK] hashed ${filePath}"
+        echo "Successfully hashed ${filePath} :)"
 
     else
     

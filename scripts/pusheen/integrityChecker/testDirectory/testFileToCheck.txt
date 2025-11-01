@@ -1,0 +1,4 @@
+hello this is a text file so that I can see 
+whether or not my initialHashFile.sh script works
+so far, this file is unchanged, hash should be the same
+ 

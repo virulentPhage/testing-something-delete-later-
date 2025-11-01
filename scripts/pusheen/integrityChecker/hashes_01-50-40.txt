@@ -1,0 +1,12 @@
+/cf/conf/config.xml | file not found :(
+/etc/passwd | 
+/etc/group | 
+/etc/master.passwd | file not found :(
+/etc/rc.conf | file not found :(
+/etc/hosts | 
+/etc/resolv.conf | 
+/boot/loader.conf | file not found :(
+/usr/local/etc/php.ini | file not found :(
+/usr/local/etc/lighttpd/lighttpd.conf | file not found :(
+/usr/local/etc/rc.d/ | file not found :(
+/root/filePathsList.txt | file not found :(
